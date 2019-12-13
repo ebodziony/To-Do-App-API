@@ -43,7 +43,7 @@ INSERT INTO `ToDos` (`id`, `title`, `note`, `arch`, `userId`, `done`) VALUES
 (3, 'Obiad', 'za 5 min', 0, 2, 0),
 (4, 'new', 'obiad za 5 minutek', 1, 6, 0),
 (5, '3232323', '2323323323;lk', 1, 6, 0),
-(6, 'Drugie zadanie', '68574hhhhhhhhhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhhh ', 0, 6, 0),
+(6, 'Drugie zadanie', '68574hhhhhhhhhhhhhhhhhhhhhhhhhhh', 0, 6, 0),
 (7, 'Zadanie', 'edytowany opis', 1, 6, 0),
 (8, '532', 'edytowany opis', 1, 6, 0),
 (9, '13', 'Zwe', 1, 6, 0),
@@ -51,11 +51,6 @@ INSERT INTO `ToDos` (`id`, `title`, `note`, `arch`, `userId`, `done`) VALUES
 (11, '5ry', 'rtyr', 1, 6, 0),
 (12, 'Edytowany tytuł', 'opis zadania', 1, 6, 0),
 (13, 'Nowe zadanie', 'opis nowego z', 0, 6, 0),
-(14, 'jhl', 'undefined', 0, 6, 0),
-(15, '534', 'null', 0, 6, 1),
-(16, '43', 'null', 0, 6, 1),
-(17, '22', 'undefined', 0, 6, 0),
-(18, '1', 'undefined', 0, 6, 0);
 
 -- --------------------------------------------------------
 
